@@ -1,0 +1,5 @@
+#written by FileProperties
+#Sat Feb 11 12:22:07 KST 2017
+day=11
+year=2017
+month=02
